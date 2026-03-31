@@ -217,6 +217,4 @@ charts/*.tgz
 .DS_Store
 Thumbs.db
 
-# Project specific folders
-Data/
-Dtos/
+

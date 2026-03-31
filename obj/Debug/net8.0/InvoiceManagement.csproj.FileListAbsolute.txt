@@ -146,3 +146,4 @@ C:\Users\AnkitRaut\Myfiles\Project\InvoiceManagement\bin\Debug\net8.0\Microsoft.
 C:\Users\AnkitRaut\Myfiles\Project\InvoiceManagement\bin\Debug\net8.0\Pipelines.Sockets.Unofficial.dll
 C:\Users\AnkitRaut\Myfiles\Project\InvoiceManagement\bin\Debug\net8.0\StackExchange.Redis.dll
 C:\Users\AnkitRaut\Myfiles\Project\InvoiceManagement\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\AnkitRaut\Myfiles\Project\InvoiceManagement\obj\Debug\net8.0\InvoiceManagement.sourcelink.json

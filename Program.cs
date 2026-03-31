@@ -9,16 +9,29 @@ using INVOICEMANAGEMENT.Services.Queries;
 using INVOICEMANAGEMENT.Services;
 using Microsoft.Extensions.Caching.StackExchangeRedis;
 using Microsoft.Extensions.Caching.Distributed;
+using Microsoft.Extensions.Caching.Memory;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container
 
-// 0. Add Redis Caching
-builder.Services.AddStackExchangeRedisCache(options =>
+// 0. Add Caching (Memory + Redis with Fallback)
+builder.Services.AddMemoryCache();
+
+try
 {
-    options.Configuration = builder.Configuration.GetConnectionString("Redis");
-});
+    builder.Services.AddStackExchangeRedisCache(options =>
+    {
+        options.Configuration = builder.Configuration.GetConnectionString("Redis");
+        options.ConfigurationOptions = StackExchange.Redis.ConfigurationOptions.Parse(builder.Configuration.GetConnectionString("Redis") + ",connectRetry=3,connectTimeout=5000");
+    });
+    Console.WriteLine("Redis caching enabled");
+}
+catch (Exception ex)
+{
+    Console.WriteLine($"Redis connection failed: {ex.Message}");
+    Console.WriteLine("Application will use memory cache fallback...");
+}
 
 // 1. Add Controllers (IMPORTANT)
 builder.Services.AddControllers()
@@ -68,7 +81,7 @@ builder.Services.AddScoped<CachedInvoiceCommandService>();
 builder.Services.AddScoped<CachedInvoiceQueryService>();
 
 // 5. Cache Service
-builder.Services.AddScoped<ICacheService, RedisCacheService>();
+builder.Services.AddScoped<ICacheService, FallbackCacheService>();
 
 // 6. Auth Service
 builder.Services.AddScoped<AuthService>();
