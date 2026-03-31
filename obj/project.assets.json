@@ -4377,31 +4377,29 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\AnkitRaut\\.nuget\\packages\\": {},
+    "C:\\Users\\hplap\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\AnkitRaut\\Myfiles\\Project\\InvoiceManagement\\InvoiceManagement.csproj",
+      "projectUniqueName": "D:\\Revature\\p2\\P2_Invoice_Management\\InvoiceManagement.csproj",
       "projectName": "InvoiceManagement",
-      "projectPath": "C:\\Users\\AnkitRaut\\Myfiles\\Project\\InvoiceManagement\\InvoiceManagement.csproj",
-      "packagesPath": "C:\\Users\\AnkitRaut\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\AnkitRaut\\Myfiles\\Project\\InvoiceManagement\\obj\\",
+      "projectPath": "D:\\Revature\\p2\\P2_Invoice_Management\\InvoiceManagement.csproj",
+      "packagesPath": "C:\\Users\\hplap\\.nuget\\packages\\",
+      "outputPath": "D:\\Revature\\p2\\P2_Invoice_Management\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\AnkitRaut\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\hplap\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -4419,7 +4417,8 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      }
+      },
+      "SdkAnalysisLevel": "9.0.300"
     },
     "frameworks": {
       "net8.0": {
@@ -4475,7 +4474,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.417/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.310/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
