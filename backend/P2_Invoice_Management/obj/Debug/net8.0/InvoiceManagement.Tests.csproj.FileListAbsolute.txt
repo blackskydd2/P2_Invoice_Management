@@ -1,6 +1,0 @@
-D:\REVATURE\PDP\InvoiceManagement\InvoiceManagement\backend\P2_Invoice_Management\obj\Debug\net8.0\InvoiceManagement.Tests.csproj.AssemblyReference.cache
-D:\REVATURE\PDP\InvoiceManagement\InvoiceManagement\backend\P2_Invoice_Management\obj\Debug\net8.0\InvoiceManagement.Tests.GeneratedMSBuildEditorConfig.editorconfig
-D:\REVATURE\PDP\InvoiceManagement\InvoiceManagement\backend\P2_Invoice_Management\obj\Debug\net8.0\InvoiceManagement.Tests.AssemblyInfoInputs.cache
-D:\REVATURE\PDP\InvoiceManagement\InvoiceManagement\backend\P2_Invoice_Management\obj\Debug\net8.0\InvoiceManagement.Tests.AssemblyInfo.cs
-D:\REVATURE\PDP\InvoiceManagement\InvoiceManagement\backend\P2_Invoice_Management\obj\Debug\net8.0\InvoiceManagement.Tests.csproj.CoreCompileInputs.cache
-D:\REVATURE\PDP\InvoiceManagement\InvoiceManagement\backend\P2_Invoice_Management\obj\Debug\net8.0\InvoiceManagement.Tests.sourcelink.json
