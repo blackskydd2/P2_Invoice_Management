@@ -76,7 +76,7 @@ root/
 | **Finance Manager** | `manager` | `manager123` |
 | **Finance User** | `user` | `user123` |
 
----
+----
 
 ## ⚙️ Setup & Installation
 
