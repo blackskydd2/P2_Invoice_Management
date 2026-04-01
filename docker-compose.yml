@@ -1,0 +1,74 @@
+version: '3.9'
+
+services:
+  # ── React Frontend ──────────────────────────────────────────────────────────
+  invoice-react:
+    build:
+      context: ./frontend/invoice-management-ui
+      dockerfile: Dockerfile
+    container_name: invoice-react
+    ports:
+      - "3000:80"
+    depends_on:
+      - invoice-api
+    networks:
+      - invoice-net
+    restart: unless-stopped
+
+  # ── .NET API (to be added in Week 4-5) ────────────────────────────────────
+  invoice-api:
+    image: mcr.microsoft.com/dotnet/aspnet:8.0
+    container_name: invoice-api
+    ports:
+      - "5000:5000"
+    environment:
+      - ASPNETCORE_URLS=http://+:5000
+      - ASPNETCORE_ENVIRONMENT=Development
+      - ConnectionStrings__DefaultConnection=Server=sqlserver;Database=InvoiceManagementDb;User Id=sa;Password=${SA_PASSWORD};TrustServerCertificate=True;
+      - JwtSettings__Secret=${JWT_SECRET}
+      - JwtSettings__Issuer=InvoiceOS
+      - JwtSettings__Audience=InvoiceOS
+      - Redis__ConnectionString=redis:6379
+    depends_on:
+      - sqlserver
+      - redis
+    networks:
+      - invoice-net
+    restart: unless-stopped
+
+  # ── SQL Server ────────────────────────────────────────────────────────────
+  sqlserver:
+    image: mcr.microsoft.com/mssql/server:2022-latest
+    container_name: invoice-sqlserver
+    ports:
+      - "1433:1433"
+    environment:
+      - SA_PASSWORD=${SA_PASSWORD:-YourStrong@Passw0rd}
+      - ACCEPT_EULA=Y
+      - MSSQL_PID=Express
+    volumes:
+      - sqlserver_data:/var/opt/mssql
+    networks:
+      - invoice-net
+    restart: unless-stopped
+
+  # ── Redis ─────────────────────────────────────────────────────────────────
+  redis:
+    image: redis:7-alpine
+    container_name: invoice-redis
+    ports:
+      - "6379:6379"
+    volumes:
+      - redis_data:/data
+    networks:
+      - invoice-net
+    restart: unless-stopped
+    command: redis-server --appendonly yes
+
+volumes:
+  sqlserver_data:
+  redis_data:
+
+networks:
+  invoice-net:
+    driver: bridge
