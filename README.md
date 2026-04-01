@@ -105,7 +105,7 @@ root/
 
 ---
 
-## ✨ Features
+## Features
 
 - ✅ **Strict RBAC**: Full access control for Finance Users, Managers, and Admins.
 - ✅ **Optimized Dashboard**: Real-time stats (Outstanding, Overdue, Paid) computed efficiently via summary endpoints.
@@ -120,3 +120,5 @@ root/
 - **Aging Report**: Automatic categorization of overdue invoices (1-30, 31-60, 60+ days).
 - **Revenue Summary**: Real-time tracking of total invoiced vs. total collected revenue.
 - **DSO Tracking**: Days Sales Outstanding calculation for financial health monitoring.
+
+==========================================================================
