@@ -34,7 +34,10 @@ catch (Exception ex)
     Console.WriteLine("Application will use memory cache fallback...");
 }
 
-// 1. Add Controllers (IMPORTANT)
+// 1. Add Response Compression (Gzip)
+builder.Services.AddResponseCompression(opts => opts.EnableForHttps = true);
+
+// 2. Add Controllers (IMPORTANT)
 builder.Services.AddControllers()
     .AddJsonOptions(options =>
     {
@@ -56,7 +59,9 @@ builder.Services.AddCors(options =>
 
 // 2. Register DbContext
 builder.Services.AddDbContext<AppDbContext>(options =>
-    options.UseSqlServer(builder.Configuration.GetConnectionString("InvoiceConnectionWithDb")));
+    options.UseSqlServer(
+        builder.Configuration.GetConnectionString("InvoiceConnectionWithDb"),
+        sqlOptions => sqlOptions.UseQuerySplittingBehavior(QuerySplittingBehavior.SplitQuery)));
 
 // 3. Swagger (for testing)
 builder.Services.AddEndpointsApiExplorer();
@@ -119,14 +124,31 @@ builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
     });
 
 var app = builder.Build();
-// Configure the HTTP request pipeline
-if (app.Environment.IsDevelopment())
+
+using (var scope = app.Services.CreateScope())
 {
-    app.UseSwagger();
-    app.UseSwaggerUI();
+    var db = scope.ServiceProvider.GetRequiredService<AppDbContext>();
+    db.Database.Migrate();
+    
+    // Auto-seed Demo Users matching frontend if they don't exist
+    if (!db.Users.Any(u => u.Username == "admin"))
+        db.Users.Add(new User { Username = "admin", Password = BCrypt.Net.BCrypt.HashPassword("admin"), Role = "Admin" });
+        
+    if (!db.Users.Any(u => u.Username == "finance-manager"))
+        db.Users.Add(new User { Username = "finance-manager", Password = BCrypt.Net.BCrypt.HashPassword("finance-manager"), Role = "FinanceManager" });
+        
+    if (!db.Users.Any(u => u.Username == "user"))
+        db.Users.Add(new User { Username = "user", Password = BCrypt.Net.BCrypt.HashPassword("user"), Role = "FinanceUser" });
+
+    db.SaveChanges();
 }
 
-app.UseHttpsRedirection();
+// Configure the HTTP request pipeline
+// Swagger always enabled (accessible from Docker)
+app.UseSwagger();
+app.UseSwaggerUI();
+
+app.UseResponseCompression();
 app.UseCors(FrontendCorsPolicy);
 
 //Auth middleware

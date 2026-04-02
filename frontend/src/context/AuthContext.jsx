@@ -156,8 +156,24 @@ export function AuthProvider({ children }) {
 
   const login = async (email, password) => {
     const data = await authApi.login(email, password);
-    localStorage.setItem('invoice_token', data.token);
-    setToken(data.token);
+    const newToken = data.token;
+    
+    // Decode and set user immediately to prevent race condition during navigation
+    const payload = decodeToken(newToken);
+    if (payload) {
+      const roleClaim = payload.role || payload['http://schemas.microsoft.com/ws/2008/06/identity/claims/role'];
+      const idClaim = payload.userId || payload.sub || payload['http://schemas.xmlsoap.org/ws/2005/05/identity/claims/nameidentifier'];
+      
+      setUser({
+        userId: idClaim,
+        email: payload.email,
+        role: roleClaim,
+        name: payload.name || payload.email || 'User',
+      });
+    }
+    
+    localStorage.setItem('invoice_token', newToken);
+    setToken(newToken);
     return data;
   };
 

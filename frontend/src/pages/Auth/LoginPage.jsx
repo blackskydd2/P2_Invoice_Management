@@ -116,28 +116,6 @@ export default function LoginPage() {
               ) : 'Sign In →'}
             </button>
           </form>
-
-          <div style={{ marginTop: '2rem', padding: '1rem', background: 'var(--bg-elevated)', borderRadius: 'var(--radius-md)', border: '1px solid var(--border-subtle)' }}>
-            <p style={{ fontSize: '0.72rem', color: 'var(--text-muted)', marginBottom: '0.5rem', textTransform: 'uppercase', letterSpacing: '0.08em', fontWeight: 600 }}>Demo Credentials</p>
-            <div style={{ display: 'flex', flexDirection: 'column', gap: '0.3rem' }}>
-              {[
-                { label: 'Admin', username: 'admin' },
-                { label: 'Finance Manager', username: 'finance-manager' },
-                { label: 'Finance User', username: 'user' },
-              ].map(d => (
-                <button
-                  key={d.username}
-                  type="button"
-                  className="btn btn-ghost btn-sm"
-                  style={{ justifyContent: 'flex-start', fontSize: '0.75rem' }}
-                  onClick={() => setForm({ username: d.username, password: 'password123' })}
-                >
-                  <span style={{ color: 'var(--accent)', width: 100 }}>{d.label}</span>
-                  <span style={{ fontFamily: 'var(--font-mono)', color: 'var(--text-muted)' }}>{d.username}</span>
-                </button>
-              ))}
-            </div>
-          </div>
         </div>
       </div>
     </div>

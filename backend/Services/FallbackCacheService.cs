@@ -14,18 +14,8 @@ public class FallbackCacheService : ICacheService
     {
         _memoryCache = memoryCache;
         _distributedCache = distributedCache;
-        
-        // Try to detect if Redis is available
-        try
-        {
-            // Simple test to see if Redis is available
-            var test = distributedCache.GetAsync("test");
-            _useRedis = true;
-        }
-        catch
-        {
-            _useRedis = false;
-        }
+        // Optimistically try Redis; per-call catch will fallback if unavailable
+        _useRedis = distributedCache != null;
     }
 
     public async Task<T?> GetAsync<T>(string key)
