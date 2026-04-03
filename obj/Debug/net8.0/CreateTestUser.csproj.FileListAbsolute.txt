@@ -1,5 +1,0 @@
-C:\Users\AnkitRaut\Myfiles\Project\InvoiceManagement\obj\Debug\net8.0\CreateTestUser.csproj.AssemblyReference.cache
-C:\Users\AnkitRaut\Myfiles\Project\InvoiceManagement\obj\Debug\net8.0\CreateTestUser.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\AnkitRaut\Myfiles\Project\InvoiceManagement\obj\Debug\net8.0\CreateTestUser.AssemblyInfoInputs.cache
-C:\Users\AnkitRaut\Myfiles\Project\InvoiceManagement\obj\Debug\net8.0\CreateTestUser.AssemblyInfo.cs
-C:\Users\AnkitRaut\Myfiles\Project\InvoiceManagement\obj\Debug\net8.0\CreateTestUser.csproj.CoreCompileInputs.cache

@@ -57,6 +57,7 @@ It enables businesses to manage invoices, payments, analytics, and users efficie
 ---
 
 ## 📁 Project Structure
+<<<<<<< HEAD
 
 ```
 P2_Invoice_Management/
@@ -83,7 +84,6 @@ P2_Invoice_Management/
 ├── docker-compose.yml
 └── README.md
 ```
-
 
 ---
 

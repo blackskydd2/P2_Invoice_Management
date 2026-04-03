@@ -1,0 +1,464 @@
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\testhost.dll
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\testhost.exe
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\appsettings.Development.json
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\appsettings.json
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\InvoiceManagement.staticwebassets.endpoints.json
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\InvoiceManagement.exe
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\InvoiceManagement.deps.json
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\InvoiceManagement.runtimeconfig.json
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\InvoiceManagement.dll
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\InvoiceManagement.pdb
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\Azure.Core.dll
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\Azure.Identity.dll
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\BCrypt.Net-Next.dll
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\Castle.Core.dll
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\Humanizer.dll
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\Microsoft.Extensions.Caching.StackExchangeRedis.dll
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\Microsoft.TestPlatform.CoreUtilities.dll
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\Microsoft.TestPlatform.Utilities.dll
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\Moq.dll
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\Pipelines.Sockets.Unofficial.dll
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\StackExchange.Redis.dll
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\System.CodeDom.dll
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\System.Memory.Data.dll
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\xunit.abstractions.dll
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\xunit.assert.dll
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\xunit.core.dll
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\xunit.execution.dotnet.dll
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\REVATURE\Final Project\backend\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\REVATURE\Final Project\backend\obj\Debug\net8.0\InvoiceManagement.csproj.AssemblyReference.cache
+D:\REVATURE\Final Project\backend\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\REVATURE\Final Project\backend\obj\Debug\net8.0\InvoiceManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\REVATURE\Final Project\backend\obj\Debug\net8.0\InvoiceManagement.AssemblyInfoInputs.cache
+D:\REVATURE\Final Project\backend\obj\Debug\net8.0\InvoiceManagement.AssemblyInfo.cs
+D:\REVATURE\Final Project\backend\obj\Debug\net8.0\InvoiceManagement.csproj.CoreCompileInputs.cache
+D:\REVATURE\Final Project\backend\obj\Debug\net8.0\InvoiceManagement.MvcApplicationPartsAssemblyInfo.cs
+D:\REVATURE\Final Project\backend\obj\Debug\net8.0\InvoiceManagement.MvcApplicationPartsAssemblyInfo.cache
+D:\REVATURE\Final Project\backend\obj\Debug\net8.0\InvoiceManagement.sourcelink.json
+D:\REVATURE\Final Project\backend\obj\Debug\net8.0\rjimswa.dswa.cache.json
+D:\REVATURE\Final Project\backend\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+D:\REVATURE\Final Project\backend\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+D:\REVATURE\Final Project\backend\obj\Debug\net8.0\scopedcss\bundle\InvoiceManagement.styles.css
+D:\REVATURE\Final Project\backend\obj\Debug\net8.0\staticwebassets.build.json
+D:\REVATURE\Final Project\backend\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\REVATURE\Final Project\backend\obj\Debug\net8.0\staticwebassets.development.json
+D:\REVATURE\Final Project\backend\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\REVATURE\Final Project\backend\obj\Debug\net8.0\InvoiceM.9290ACB1.Up2Date
+D:\REVATURE\Final Project\backend\obj\Debug\net8.0\InvoiceManagement.dll
+D:\REVATURE\Final Project\backend\obj\Debug\net8.0\refint\InvoiceManagement.dll
+D:\REVATURE\Final Project\backend\obj\Debug\net8.0\InvoiceManagement.pdb
+D:\REVATURE\Final Project\backend\obj\Debug\net8.0\InvoiceManagement.genruntimeconfig.cache
+D:\REVATURE\Final Project\backend\obj\Debug\net8.0\ref\InvoiceManagement.dll
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\obj\Debug\net8.0\InvoiceManagement.csproj.AssemblyReference.cache
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\obj\Debug\net8.0\InvoiceManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\obj\Debug\net8.0\InvoiceManagement.AssemblyInfoInputs.cache
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\obj\Debug\net8.0\InvoiceManagement.AssemblyInfo.cs
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\obj\Debug\net8.0\InvoiceManagement.csproj.CoreCompileInputs.cache
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\obj\Debug\net8.0\InvoiceManagement.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\obj\Debug\net8.0\InvoiceManagement.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\obj\Debug\net8.0\InvoiceManagement.sourcelink.json
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\testhost.dll
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\testhost.exe
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\appsettings.json
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\InvoiceManagement.exe
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\InvoiceManagement.deps.json
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\InvoiceManagement.runtimeconfig.json
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\InvoiceManagement.dll
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\InvoiceManagement.pdb
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\BCrypt.Net-Next.dll
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\Castle.Core.dll
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\Humanizer.dll
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\Microsoft.Extensions.Caching.StackExchangeRedis.dll
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\Microsoft.TestPlatform.Utilities.dll
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\Moq.dll
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\Pipelines.Sockets.Unofficial.dll
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\StackExchange.Redis.dll
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\xunit.abstractions.dll
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\xunit.assert.dll
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\xunit.core.dll
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\xunit.execution.dotnet.dll
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\obj\Debug\net8.0\staticwebassets\msbuild.InvoiceManagement.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\obj\Debug\net8.0\staticwebassets\msbuild.build.InvoiceManagement.props
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.InvoiceManagement.props
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.InvoiceManagement.props
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\obj\Debug\net8.0\scopedcss\bundle\InvoiceManagement.styles.css
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\obj\Debug\net8.0\InvoiceM.9290ACB1.Up2Date
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\obj\Debug\net8.0\InvoiceManagement.dll
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\obj\Debug\net8.0\refint\InvoiceManagement.dll
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\obj\Debug\net8.0\InvoiceManagement.pdb
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\obj\Debug\net8.0\InvoiceManagement.genruntimeconfig.cache
+C:\Users\AnkitRaut\Myfiles\P2_InvoicementManagemt\backend\obj\Debug\net8.0\ref\InvoiceManagement.dll
